@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+	  "module": "commonjs",
+	  "target": "ES6",
+	  "outDir": "out",
+	  "sourceMap": true,
+	  "rootDir": "src",
+	  "strict": true,
+	  "esModuleInterop": true,
+	  "skipLibCheck": true  // Added from the second part
+	},
+	"include": [
+	  "src"
+	]
+  }
+  
